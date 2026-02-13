@@ -48,7 +48,7 @@ h1 {
   content: '';
   position: absolute;
   width: 4px;
-  background: linear-gradient(to bottom, #6366f1, #a78bfa, #ec4899);
+  background: linear-gradient(to bottom, #383be7, #8bfaa7, #b048ec);
   top: 0;
   bottom: 0;
   left: 50%;
